@@ -2,20 +2,22 @@
 Ex 24.
 
 Convert each number in the list from a int to a string
+Program description: The objective of this program is to change the data type of the items in the list from integer to strings.
+
 """
 
 int_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-for x in range(len(int_list)):
-  int_list[x]*=12
+for vAR_x in range(len(int_list)):
+  int_list[vAR_x]*=12
 
-add = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
-for x in range(len(int_list)):
-  int_list[x] = (int_list[x] + add[x])
+vAR_add = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
+for vAR_x in range(len(int_list)):
+  int_list[vAR_x] = (int_list[vAR_x] + vAR_add[vAR_x])
 
-total = 0
-for x in range (len(int_list)):
-  total+= int_list[x]
+vAR_total = 0
+for vAR_x in range (len(int_list)):
+  vAR_total+= int_list[vAR_x]
 
-for x in range(len(int_list)):
-  int_list[x] = str(int_list[x])
+for vAR_x in range(len(int_list)):
+  int_list[vAR_x] = str(int_list[vAR_x])

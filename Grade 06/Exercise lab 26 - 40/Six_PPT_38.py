@@ -4,7 +4,18 @@ Ex 38.
 Create a function that scrambles the order of a sentence inputted by a user. The last and first word will be switched and the second word will be deleted. Use a switching algorithm in order to swich the first and last words. This excersise is more difficult then the previous one, but try your best!
 
 Hint: Using the method .split(" ") on a string will split the sentence into a list where each word occupies a slot.
+
+
+Program description: The objective of this program is to create a function which performs several tasks altogether.
+This code specifically creates a function that scrambles the order of a  sentence given by the user.
+The last and first word will be switched and the second word will be deleted. 
+It uses a ‘Switching algorithm’ (using a temp variable) to do the same.
+This is a little more difficult compared to the rest.
+Hint: Using the method.split(" ") on a string will split the sentence into a list where each word occupies a slot.
+
 """
+
+
 def sentence_scrambler(sent):
   words = sent.split(" ")
   output = ""

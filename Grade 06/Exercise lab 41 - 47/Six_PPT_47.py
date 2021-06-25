@@ -1,7 +1,19 @@
 """
 Ex 47.
 
-A fibonnaci number is a number created by the sum of the previous 2 numbers starting at 0 and 1. The first 5 fibbonaci numbers are 0,1,1,2,3. Create a function that finds the nth fibbonaci number.
+A fibonnaci number is a number created by the sum of the previous 2 numbers starting at 0 and 1. The first 5 fibbonaci numbers are 0,1,1,2,3. 
+Create a function that finds the nth fibbonaci number.
+
+
+Program description: The objective of this program is to try and solve logical problems using code. 
+This code specifically gives the nth Fibonacci number. A Fibonacci number is a number created by the sum of the previous 2 numbers starting at 0 and 1.
+The first 5 Fibonacci numbers are 0,1,1,2,3.  
+Hint: You can utilize recursion to make this code simpler.
+Remember: A recursive function is a function defined in terms of itself via self-referential expressions.
+This means that the function will continue to call itself and repeat its behaviour until some condition is met to return a result.
+Similar codes can be written using recursion instead of looping.
+
+
 """
 
 def Fibonacci(n):

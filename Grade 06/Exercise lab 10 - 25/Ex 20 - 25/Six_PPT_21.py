@@ -3,7 +3,7 @@ Ex 21.
 
 Multiply Each Number in the list by 12 (From Ex 20)
 
-Program description: The objective of this program is to multiply each number in the int_list by twelve.
+Program description: The objective of this program is to multiply each number in the vARint_list by twelve.
 
 """
 

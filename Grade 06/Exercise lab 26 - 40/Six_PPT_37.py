@@ -5,8 +5,8 @@ Create 2 functions where one multiplies by 5 and one takes the output of the fir
 
 Program description: The objective of this program is to create 2 user-defined functions.
 The function call of one function is placed within the other function.
-The first function ‘times5’ multiplies a given number by 5 and then returns it. 
-The second function calls ‘times5’ and then adds 4. 
+The first function ‘vAR_times5’ multiplies a given number by 5 and then returns it. 
+The second function calls ‘vAR_times5’ and then adds 4. 
 Remember: A function can return data as a result. 
 If there is no value that is returned by a function, it is called a void function.
 

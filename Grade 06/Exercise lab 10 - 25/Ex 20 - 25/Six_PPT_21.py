@@ -7,7 +7,7 @@ Program description: The objective of this program is to multiply each number in
 
 """
 
-int_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-for vAR_x in range(len(int_list)):
-  int_list[vAR_x]*=12
+vARint_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+for x in range(len(vARint_list)):
+  vARint_list[x]*=12
   

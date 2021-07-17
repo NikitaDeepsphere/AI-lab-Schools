@@ -2,6 +2,11 @@
 Ex 38.
 
 Using the code for the last excersise, change the name of "Fido" to "Gumpy"
+
+Program description: The objective of this code is to change the name attribute of the object. 
+We take the object Fido (this was created in 36) and use the change_name function to change its name to “Gumpy”.
+Note: Here we are only changing the Name attribute of the object and not the Variable name that is used to refer to the object.
+
 """
 
 class animal:

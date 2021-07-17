@@ -2,6 +2,11 @@
 Ex 37.
 
 Using the code for the last excersise, print out the name and age of Fido.
+
+Program description: The objective of this code is to print out the attributes name and age of the object “Fido” 
+(this was created in 36) using the functions already part of the given Animal Class.
+Note: This is of the format objectName.functionName()
+
 """
 
 class animal:

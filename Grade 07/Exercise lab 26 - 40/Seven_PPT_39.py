@@ -2,6 +2,13 @@
 Ex 39.
 
 Using the code for the last excersise, create another animal "Sally" whose age is 15 and gender is "Female"
+
+Program description: The objective of this function is to create a new object from the Animal Class provided. A new animal dog, 
+named Sally who’s gender is Female and age 15. This is an example of creating an object from a Class.
+Note: this is of the format objName = className(attributes/actual parameters)
+
+
+
 """
 
 class animal:

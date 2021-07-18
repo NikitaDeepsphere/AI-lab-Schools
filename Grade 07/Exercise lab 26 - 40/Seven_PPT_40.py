@@ -2,6 +2,12 @@
 Ex 40.
 
 Using the code for the last excersise, change Sally's age to 6 and compare it with the age of Gumpy. If it is equal print True, otherwise print False.
+
+Program description: The objective of this function is to perform actions on the 2 objects Fido and Sally (created in 36 and 39). 
+We first change the age attribute of Sally from 15 to 6. 
+Then, we use a Boolean statement to check if the age attribute of the 2 objects are the same.
+Note: If the Boolean was before the code to change age attribute of Sally, then the answer will be different.
+
 """
 
 class animal:

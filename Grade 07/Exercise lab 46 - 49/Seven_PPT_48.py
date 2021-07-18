@@ -1,7 +1,13 @@
 """
 Ex 48.
 
-Add to the bank_account class a function called verify, which will take in user input using input(), and check and see if the id_numbers match return a boolean corresponding to whether they match or not
+Add to the bank_account class a function called verify, which will take in user input using input(), 
+and check and see if the id_numbers match return a boolean corresponding to whether they match or not
+
+Program description: The objective of this code is the create 2 new functions to the bank_account class. 
+The first one is called withdraw which will take in an integer input and subtract it from the balance. 
+The second is called deposit and will again take in an integer input and add it to the existing balance.
+Thus, they change the values of the balance attributes.
 """
 
 import random

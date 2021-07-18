@@ -1,7 +1,14 @@
 """
 Ex 45.
 
-Using the Classroom class from the previous excercise, find how many students are 14, and how many are 15 years old. Then add up all the ages of 15s, and 14s seperatly. Then find the difference to see how many years apart the total class is.
+Using the Classroom class from the previous excercise, find how many students are 14, and how many are 15 years old.
+Then add up all the ages of 15s, and 14s seperatly. Then find the difference to see how many years apart the total class is.
+
+Program description: 
+                   The objective of this code is to create a function to find out how many students are 14, and how many are 15 years old. 
+                   Then it will add up all the ages of 15s, and 14s separately.
+                   Then it will find the difference and return it to see how many years apart the total class is.
+                   
 """
 
 import random

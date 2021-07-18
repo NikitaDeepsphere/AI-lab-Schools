@@ -1,7 +1,16 @@
 """
 Ex 44.
 
-Using the Classroom class from the previous excercise, create a function calc_id_range which will calculate the range of the ids. This means that it will set the self.id_range to the highest id minus the lowest id. For example, if a student had an id of 999999, and it was the highest, and another student had an id of 100000, and it was the lowest, the id_range would be 999999-100000 = 899999.
+Using the Classroom class from the previous excercise, create a function calc_id_range which will calculate the range of the ids.
+This means that it will set the self.id_range to the highest id minus the lowest id. For example, if a student had an id of 999999,
+and it was the highest, and another student had an id of 100000, and it was the lowest, the id_range would be 999999-100000 = 899999.
+
+
+Program description: The objective of this code is to create a function to find the range of the ids. We first use a for loop to find the 
+min and max values and then use them to find the range and then return it.
+Note: Create local variables only for the newly created function for min and max values.
+
+
 """
 
 import random

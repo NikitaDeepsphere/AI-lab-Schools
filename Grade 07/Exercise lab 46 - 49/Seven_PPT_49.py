@@ -2,6 +2,9 @@
 Ex 49.
 
 Finally, edit the withdraw and deposit functions in the bank account class to include verify. Only do the transaction if the verification is true.
+
+Program description: The objective of this function is to edit the withdraw and deposit functions (47) to ensure that the transaction only
+takes place of the verify function is true.
 """
 
 import random

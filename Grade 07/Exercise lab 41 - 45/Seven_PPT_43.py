@@ -1,7 +1,13 @@
 """
 Ex 43.
 
-Using the Classroom class from the previous excercise, create a function, get_average, which will calculate the average age of the students, set that equal to self.average_age, and return it as a float (floating point number).
+Using the Classroom class from the previous excercise, create a function, get_average, which will calculate the average age of the students, 
+set that equal to self.average_age, and return it as a float (floating point number).
+
+Program description: The objective of this code is to use the Classroom Class (42) to create a function (get_average)
+which will calculate the average age of the students and return it as a float. 
+Note: Use a loop to add the ages and call for the get_age function
+
 """
 
 import random

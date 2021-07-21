@@ -13,3 +13,5 @@ def sum_under(vAR_num1):
   for vAR_x in range(vAR_num1+1):
     vAR_out+=vAR_x
   print(vAR_out)
+  
+  sum_under(6)

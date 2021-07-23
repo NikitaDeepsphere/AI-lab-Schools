@@ -9,3 +9,4 @@ vAR_fruits = ["Bannana", "Apple", "Peach"]
 vAR_new_fruits = ["Pineapple", "Coconut", "Watermelon"]
 for vAR_x in vAR_new_fruits:
   vAR_fruits.append(vAR_x)
+print(vAR_fruits)

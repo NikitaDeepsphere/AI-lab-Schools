@@ -1,7 +1,7 @@
 """
 Ex 13.
 
-The objective of this program is to create a function that can print the sum of all integers that are odd or less than 100.
+Program Description: The objective of this program is to create a function that can print the sum of all integers that are odd or less than 100.
 """
 
 numbers = [12,145,14,122,142,2,3154,132,132,242,1245,235,123] # can be any list, this is just an example

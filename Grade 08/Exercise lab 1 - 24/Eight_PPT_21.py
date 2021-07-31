@@ -1,15 +1,16 @@
 """
 Ex 21.
 
-Create a class called bank_account that has the variables balance and id_number. The constructor will take in a number for the balance and the id_number will be a random 6-digit number.
+Program Description: The objective of this program is to create a bank account class which will ask for the balance and generate a random id.
+
 """
 
 import random
 
 class bank_account:
-  balance = 0
-  id_number = 0
+  vAR_balance = 0
+  vAR_id_number = 0
 
-  def __init__(self, num):
-    self.balance = num
+  def __init__(self, vAR_num):
+    self.balance = vAR_num
     self.id_number = random.randrange(100000,999999)

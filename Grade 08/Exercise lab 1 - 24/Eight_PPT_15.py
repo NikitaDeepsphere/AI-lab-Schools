@@ -1,7 +1,7 @@
 """
 Ex 15.
 
-The objective of this program is to create a function that will pass in 2 strings and output the second string inserted halfway in the first. Ex- Insert(“Apple”, “Orange”) = “ApOrangeple”
+Program Description: The objective of this program is to create a function that will pass in 2 strings and output the second string inserted halfway in the first. Ex- Insert(“Apple”, “Orange”) = “ApOrangeple”
 
 Note- Do not forget to add (“  ”) for the strings
 

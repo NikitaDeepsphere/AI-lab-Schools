@@ -1,20 +1,22 @@
 """
 Ex 19.
 
-Using the Classroom class from the previous excercise, create a function, get_average, which will calculate the average age of the students, set that equal to self.average_age, and return it as a float (floating point number).
+Program Description: The objective of this program is to create a function which will calculate the average age of the students in the class (from the previous program) and return the value as a float.
+
+Remember: Float means “floating point value,” which is a decimal.
 """
 
 import random
 
 class Student:
-  name = ""
-  id_number = 0
-  age = 0
+  vAR_name = ""
+  vAR_id_number = 0
+  vAR_age = 0
 
-  def __init__(self, name, id_number, age):
-    self.name = name
-    self.id_number = id_number
-    self.age = age
+  def __init__(self, vAR_name, vAR_id_number, vAR_age):
+    self.name = vAR_name
+    self.id_number = vAR_id_number
+    self.age = vAR_age
   
   def get_name(self):
     return self.name
@@ -27,22 +29,22 @@ class Student:
 
 
 class Classroom:
-  class_size = 0
-  student_list = []
-  average_age = 0.0
-  id_range = 0
+  vAR_class_size = 0
+  vAR_student_list = []
+  vAR_average_age = 0.0
+  vAR_id_range = 0
 
-  def __init__(self, size):
-    self.class_size = size
-    for x in range(size):
-      self.student_list.append(Student("Mark",random.randrange(100000,999999),random.randrange(14,16)))
+  def __init__(self, vAR_size):
+    self.class_size = vAR_size
+    for x in range(vAR_size):
+      self.vAR_student_list.append(Student("Mark",random.randrange(100000,999999),random.randrange(14,16)))
   
   def get_average_age(self):
-    total = 0
-    for x in self.student_list:
-      total = total + x.get_age()
-    self.average_age = total/self.class_size
-    return self.average_age
+    vAR_total = 0
+    for vAR_x in self.vAR_student_list:
+      vAR_total = vAR_total + vAR_x.get_age()
+    self.vAR_average_age = vAR_total/self.vAR_class_size
+    return self.vAR_average_age
 
 me = Classroom(20)
 print(me.get_average_age())

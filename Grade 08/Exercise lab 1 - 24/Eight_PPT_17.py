@@ -1,18 +1,19 @@
 """
 Ex 17.
 
-Create a class student. It should have a constructor with __init__(self,...) and the variables name, id_number, and age. There should also be functions to get these values and return them.
+The objective of this program is to create a class student. It should utilize the constructor with __init__(self,...) and the variables name, id_number, and age. Create functions to get the value and return them.
+
 """
 
 class Student:
-  name = ""
-  id_number = 0
-  age = 0
+  vAR_name = ""
+  vAR_id_number = 0
+  vAR_age = 0 
 
-  def __init__(self, name, id_number, age):
-    self.name = name
-    self.id_number = id_number
-    self.age = age
+  def __init__(self, vAR_name, vAR_id_number, vAR_age):
+    self.name = vAR_name
+    self.id_number = vAR_id_number
+    self.age = vAR_age
   
   def get_name(self):
     return self.name

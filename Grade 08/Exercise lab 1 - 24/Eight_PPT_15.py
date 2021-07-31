@@ -1,13 +1,16 @@
 """
 Ex 15.
 
-Create a function that will pass in 2 strings and will output the second string inserted halfway in the first. Example: insert("Apple", "Orange") = "ApOrangeple"
+The objective of this program is to create a function that will pass in 2 strings and output the second string inserted halfway in the first. Ex- Insert(“Apple”, “Orange”) = “ApOrangeple”
+
+Note- Do not forget to add (“  ”) for the strings
+
 """
 
-str1 = "Apple"
-str2 = "Orange"
+vAR_str1 = "Apple"
+vAR_str2 = "Orange"
 
-def insert(str1, str2):
-  return str1[:int(len(str1)/2)] + str2 + str1[int(len(str1)/2):]
+def insert(vAR_str1, vAR_str2):
+  return vAR_str1[:int(len(vAR_str1)/2)] + vAR_str2 + vAR_str1[int(len(vAR_str1)/2):]
 
-print(insert(str1,str2))
+print(insert(vAR_str1,vAR_str2))

@@ -1,20 +1,23 @@
 """
 Ex 20.
 
-Using the Classroom class from the previous excercise, create a function calc_id_range which will calculate the range of the ids. This means that it will set the self.id_range to the highest id minus the lowest id. For example, if a student had an id of 999999, and it was the highest, and another student had an id of 100000, and it was the lowest, the id_range would be 999999-100000 = 899999.
+Program Description: The objective of this program is to create a function which will calculate the range of the id numbers (from programs 18 & 19.)
+
+Note: Range is the difference between the highest and lowest values.
+
 """
 
 import random
 
 class Student:
-  name = ""
-  id_number = 0
-  age = 0
+  vAR_name = ""
+  vAR_id_number = 0
+  vAR_age = 0
 
-  def __init__(self, name, id_number, age):
-    self.name = name
-    self.id_number = id_number
-    self.age = age
+  def __init__(self, vAR_name, vAR_id_number, vAR_age):
+    self.name = vAR_name
+    self.id_number = vAR_id_number
+    self.age = vAR_age
   
   def get_name(self):
     return self.name
@@ -27,27 +30,27 @@ class Student:
 
 
 class Classroom:
-  class_size = 0
-  student_list = []
-  average_age = 0.0
-  id_range = 0
+  vAR_class_size = 0
+  vAR_student_list = []
+  vAR_average_age = 0.0
+  vAR_id_range = 0
 
-  def __init__(self, size):
-    self.class_size = size
-    for x in range(size):
-      self.student_list.append(Student("Mark",random.randrange(100000,999999),random.randrange(14,16)))
+  def __init__(self, vAR_size):
+    self.class_size = vAR_size
+    for x in range(vAR_size):
+      self.vAR_student_list.append(Student("Mark",random.randrange(100000,999999),random.randrange(14,16)))
   
   def get_average_age(self):
-    total = 0
-    for x in self.student_list:
-      total = total + x.get_age()
-    self.average_age = total/self.class_size
+    vAR_total = 0
+    for x in self.vAR_student_list:
+      vAR_total = vAR_total + x.get_age()
+    self.average_age = vAR_total/self.class_size
     return self.average_age
 
   def calc_id_range(self):
     min = 999999
     max = 0
-    for x in self.student_list:
+    for x in self.vAR_student_list:
       if(x.get_id() > max):
         max = x.get_id()
       elif(x.get_id() < min):

@@ -1,27 +1,30 @@
 """
 Ex 24.
 
-Finally, edit the withdraw and deposit functions in the bank account class to include verify. Only do the transaction if the verification is true.
+Program Description: The objective of this program is to add verification to the withdraw and deposit functions.
+
+Note: Only do the transaction if the verification returns “True.”
+
 """
 
 import random
 
 class bank_account:
-  balance = 0
-  id_number = 0
+  vAR_balance = 0
+  vAR_id_number = 0
 
-  def __init__(self, num):
-    self.balance = num
+  def __init__(self, vAR_num):
+    self.balance = vAR_num
     self.id_number = random.randrange(100000,999999)
 
-  def withdraw(self, num):
+  def withdraw(self, vAR_num):
     if(self.verify()):
-      self.balance = self.balance - num
+      self.balance = self.balance - vAR_num
     return self.balance
   
-  def deposit(self, num):
+  def deposit(self, vAR_num):
     if(self.verify()):
-      self.balance = self.balance + num
+      self.balance = self.balance + vAR_num
     return self.balance
   
   def verify(self):

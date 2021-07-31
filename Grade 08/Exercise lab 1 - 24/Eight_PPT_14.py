@@ -1,7 +1,7 @@
 """
 Ex 14.
 
-The objective of this program is to create a function that will check whether the sum of a list that is imputed is equal to 21.
+The objective of this program is to create a function that will check whether the sum of a list that is inputted is equal to 21.
 """
 
 check = [1,2,-3,3,3,4,5,6,2,-2]

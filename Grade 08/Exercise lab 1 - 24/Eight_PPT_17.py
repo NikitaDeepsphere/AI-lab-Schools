@@ -1,7 +1,7 @@
 """
 Ex 17.
 
-The objective of this program is to create a class student. It should utilize the constructor with __init__(self,...) and the variables name, id_number, and age. Create functions to get the value and return them.
+Program Desciption: The objective of this program is to create a class student. It should utilize the constructor with __init__(self,...) and the variables name, id_number, and age. Create functions to get the value and return them.
 
 """
 

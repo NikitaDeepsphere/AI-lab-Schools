@@ -1,25 +1,28 @@
 """
 Ex 23.
 
-Add to the bank_account class a function called verify, which will take in user input using input(), and check and see if the id_numbers match return a boolean corresponding to whether they match or not
+Program Description: The objective of this program is to create a function which will verify whether the user input id is the same as the id generated in program #21 and return a boolean.
+
+Remember: Boolean is either “True” or “False”
+
 """
 
 import random
 
 class bank_account:
-  balance = 0
-  id_number = 0
+  vAR_balance = 0
+  vAR_id_number = 0
 
-  def __init__(self, num):
-    self.balance = num
+  def __init__(self, vAR_num):
+    self.balance = vAR_num
     self.id_number = random.randrange(100000,999999)
 
-  def withdraw(self, num):
-    self.balance = self.balance - num
+  def withdraw(self, vAR_num):
+    self.balance = self.balance - vAR_num
     return self.balance
   
-  def deposit(self, num):
-    self.balance = self.balance + num
+  def deposit(self, vAR_num):
+    self.balance = self.balance + vAR_num
     return self.balance
   
   def verify(self):

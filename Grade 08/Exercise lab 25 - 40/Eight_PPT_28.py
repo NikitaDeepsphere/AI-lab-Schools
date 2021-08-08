@@ -1,7 +1,9 @@
 """
 Ex 28.
-
 Draw a smiley face using plt.scatter and plt.plot
+
+Program Description: The objective of this program is to draw a smiley face using the functions .scatter() and .plot() in matplotlib.
+
 """
 import matplotlib.pyplot as plt
 import numpy as np

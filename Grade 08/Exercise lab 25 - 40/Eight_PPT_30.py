@@ -1,7 +1,9 @@
 """
 Ex 30.
+Add labels to the X and Y axes of the previous graph'
 
-Add labels to the X and Y axes of the previous graph
+Program descriptions : The objective of this program is to add labels to the X and Y axes of the previous graph as such.
+
 """
 
 import matplotlib.pyplot as plt

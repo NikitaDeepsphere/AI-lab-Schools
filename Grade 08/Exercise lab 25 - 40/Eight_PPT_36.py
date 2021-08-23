@@ -2,6 +2,9 @@
 Ex 36.
 
 Now Using the random class in python, create a bar chart with 4 categories, "A" through "D", but randomize each value from 1 to 20.
+
+Program Description: The objective of this program is to use a random class  in python and create a bar chart with 4 categories, “A” through “D” , but randomize each value from 1 to 20. This program highlights the usage of “randrange”. 
+
 """
 
 import numpy as np

@@ -1,7 +1,9 @@
 """
 Ex 31.
-
 Add a title to the previous graph.
+
+Program descriptions : The objective of this program is to add a title to the previous graph
+
 """
 
 import matplotlib.pyplot as plt

@@ -1,7 +1,7 @@
 """
 Ex 12.
 
-Create a constructor for application
+Program description: The objective of this program is to create a constructor for the class named “application” which includes variables “app_name” and “app_size” and “app_type”.
 """
 
 class Application:

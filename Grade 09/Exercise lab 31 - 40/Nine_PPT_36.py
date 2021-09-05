@@ -1,7 +1,8 @@
 """
 Ex 36.
 
-Create the class residential_area which has the list house_list, avg_price,and avg_sq_feet.
+Program Description: The objective of this program is to create a class called “residential_area” which contains the list “house_list” and the variables “avg_price” and “avg_sq_feet.”
+
 """
 
 class house:

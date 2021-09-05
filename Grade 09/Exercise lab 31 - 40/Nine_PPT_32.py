@@ -1,7 +1,8 @@
 """
 Ex 32.
 
-Create a constructor for the house class that will take in the four parameters listed above and set them equal to one another.
+Program Description: The objective of this program is to create a constructor that will take in the variables as parameters and set them equal to one another.
+
 """
 
 class house:

@@ -1,7 +1,8 @@
 """
 Ex 34.
 
-Create the function pp_sq_ft or price per square foot, which will calculate how much each sq_foot of the property costs based on the price of the house.
+Program Description: The objective of this program is to create a function called “pp_sq_ft” (price per square foot) which will calculate the cost of each square foot of the property given the price of the house.
+
 """
 
 class house:

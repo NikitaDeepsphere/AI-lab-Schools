@@ -1,7 +1,8 @@
 """
 Ex 37.
 
-Add to the class a constructor and a function add_houses, which will take in x and add x number of random houses to the house list. Give each house either 2, 2.5, or 3 bed/bath, a random price from 800,000 to 1,200,000, and a random square feet from 4,000 to 6,000.
+The objective of this program is to add a constructor and a function which will take in an integer and add that number of random houses to the house list. Give each house either 2, 2.5, or 3 bed/bath, a random price from 800,000 to 1,200,000, and a random square feet from 4,000 to 6,000.
+
 """
 
 import random

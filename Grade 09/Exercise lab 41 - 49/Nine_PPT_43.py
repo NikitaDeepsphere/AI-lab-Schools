@@ -1,7 +1,7 @@
 """
 Ex 43.
 
-Create a class movie_theatre that has the variable movie_list
+The objective of this program is to create another class called movie_theatre which will contain a list of movie class objects.
 """
 
 class movie:

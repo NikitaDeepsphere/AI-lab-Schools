@@ -1,7 +1,7 @@
 """
 Ex 5.
 
-Given that each month has 30 days, and the date 7/7/2021 is a Wensday, create the function next, which will increase the day by one.
+Program description: The objective of this program is given that each month has 30 days and the random date 7/7/2021 is Wednesday here this code to create a function named “next” which will increase the day by one.
 """
 
 days = ["Sunday", "Monday", "Tuesday", "Wensday", "Thursday", "Friday", "Saturday"]

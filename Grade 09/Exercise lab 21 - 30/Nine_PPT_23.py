@@ -1,7 +1,8 @@
 """
 Ex 23.
 
-Create the function input that will input 2 numbers, and a operation. Then set the self variables to the ones passed in.
+Program Description: The objective of this program is to create a function which inputs 2 numbers and a arithmetic operation ( + , - , * , / ). Then set the self variables to one passed in.
+
 """
 
 class calculator:

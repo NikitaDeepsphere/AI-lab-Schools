@@ -1,9 +1,8 @@
 """
 Ex 4.
 
-Program description: The objective of this program is to create the variables “year” , “month” and “day”.
+Program description : The objective of this program is to give variables “year”, “Month” and “day” the values of the current day. 
 
-Note: This part of code is being added to the previously created code in Exercise - 2.
 """
 
 days = ["Sunday", "Monday", "Tuesday", "Wensday", "Thursday", "Friday", "Saturday"]

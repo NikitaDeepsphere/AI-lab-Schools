@@ -1,7 +1,7 @@
 """
 Ex 48.
 
-Edit the function random_movie so that the rating is only up to one decimal place.
+The objective of this program is to round the value of the movie rating upto one decimal place. Use the round() function.
 """
 
 import random

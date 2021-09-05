@@ -1,7 +1,9 @@
 """
 Ex 7.
 
-Create the function print date, which will print the date in the format day(from list), month/day/year. ie. Wensday, 7/7/2021
+Program description: The objective of this program is to create a function named “print date” which will print in the format (from previously created list ).
+The format is Month/Day/Year.
+
 """
 
 days = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wensday", "Thursday"]

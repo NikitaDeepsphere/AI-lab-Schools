@@ -1,7 +1,9 @@
 """
 Ex 39.
 
-Add to the class a function called get_avg_price which will calculate the average price and return it as well as set the self value to it.
+The objective of this program is to add a function to get the average price and then set the self value to it. 
+Note: Each class should contain a get and set function for each of its properties (the variables).
+
 """
 
 import random

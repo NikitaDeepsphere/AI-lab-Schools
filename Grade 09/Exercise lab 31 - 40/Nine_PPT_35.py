@@ -1,7 +1,7 @@
 """
 Ex 35.
 
-Using round() in python, make sure all the price values and the sq_feet are rounded to 2 decimal places and the bed and bath is rounded to 1.
+Program Description: The objective of this program is to use “round()” (an inbuilt method in Python) to make sure the price and square footage are rounded to 2 decimal places and the bed & bath are rounded to 1.
 """
 
 class house:

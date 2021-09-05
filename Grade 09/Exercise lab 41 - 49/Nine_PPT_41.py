@@ -1,7 +1,8 @@
 """
 Ex 41.
 
-Create a class called movie and give it the variables title, runtime, rating, and year.
+The objective of this program is to create a class called movie and give it 4 properties that are title, runtime, rating, and year.
+
 """
 
 class movie:

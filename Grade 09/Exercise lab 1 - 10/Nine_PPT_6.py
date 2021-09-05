@@ -1,7 +1,7 @@
 """
 Ex 6.
 
-Create the function find day, which will find which day it is given the year, month, and day. Use the starting point, 1/1/2021, which is a Friday. Assume 360 days each year with each month having 30 days.
+Program description: The objective of this program is to create a function which finds a day as the values of variables “year” , “month” and “day”. In this code we use the starting point 1/1/2021 which is a friday. In this code we assume a year to be 360 days where each month as 30 days.
 """
 
 days = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wensday", "Thursday"]

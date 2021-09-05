@@ -1,7 +1,10 @@
 """
 Ex 19.
 
-Create a computer and add 10 random applications 2 it. For the name and type of the app, they can be blank.
+Program Description: The objective of this program is to create a computer and add 10 random apps to it.
+
+Note: The name and the type of app can be blank.
+
 """
 import random
 

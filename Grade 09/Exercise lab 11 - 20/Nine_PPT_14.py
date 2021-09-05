@@ -1,7 +1,8 @@
 """
 Ex 14.
 
-Edit the update function so that it will return the changed values as a string.
+Program Description: The objective of this program is to edit the update function so that it returns the changed values as strings.
+
 """
 
 class Application:

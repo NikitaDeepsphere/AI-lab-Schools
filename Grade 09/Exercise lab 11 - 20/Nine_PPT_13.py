@@ -1,7 +1,10 @@
 """
 Ex 13.
 
-Give the application the function update which will take in 2 strings. One will determine what feature needs to be update. The other will contain the value that will update. ie update("13", "size") will change the size to 13. update("New", "name") will change the name to "New".
+Program Description: The objective of this program is to create a function that will take in two strings. One string will be determining what feature will be changed and the other will be the value that will be updated.
+
+Example: update(“13”, “size”) will change the size to 13.
+
 """
 
 class Application:

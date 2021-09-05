@@ -1,7 +1,10 @@
 """
 Ex 1.
 
-Create a variable called days
+Program Description: The objective of this program is to create a variable named “days”.
+
+Note: If you want to assign values to the variables you shall use the “=” sign.
+
 """
 
 days

@@ -1,7 +1,8 @@
 """
 Ex 28.
 
-Add the function rand_calc() which will randomly assign calculations for each of the calculators in super_calc to do (use nums between 1 and 100). It will take in the operation. It will return a list of all the answers for each calculator.
+Program Description: The objective of this program is to create a function called “rand_calc” which will randomly generate calculations that the “super_calc” will do (using numbers between 1 and 100.) It will also take in the operation and return a list of answers for each calculator.
+
 """
 
 import random

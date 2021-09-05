@@ -1,7 +1,8 @@
 """
 Ex 40.
 
-Finally, create a similar function, get_avg_sq_feet that will return and set the self value to the average square feet of the residential area
+The objective of this program is to add a function to get the average square feet and then set the self value to this value of average square feet.
+
 """
 
 import random

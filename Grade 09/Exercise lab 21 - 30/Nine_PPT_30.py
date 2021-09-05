@@ -1,7 +1,10 @@
 """
 Ex 30.
 
-Finally import statistics and create the function std(), which will find the standard deviation of the dataset using statistics.stdev.
+Program Description: The objective of this program is to use “statistics” and create a function called “std()” which calculates the standard deviation (using the statistics.stdev method.)
+
+Reminder: “Statistics” is a module in Python.
+
 """
 
 import random

@@ -1,7 +1,8 @@
 """
 Ex 27.
 
-Create and add a constructor which will take in the variable x and add x amount of calculators to the list.
+Program Description: The objective of this program is to create and add a constructor which will take in a variable called “x” and add “x” number of calculators to the list.
+
 """
 
 class super_calculator:

@@ -1,7 +1,9 @@
 """
 Ex 49.
 
-Create the function sort_rating, that will sort the movie_list by rating, least to greatest.
+The objective of this program is to create a function sort_rating that will sort the movie_list by rating, least to greatest. Use for loops and conditional statements to do the same. 
+Note: Make sure to use the correct format while accessing the members of the list.
+
 """
 
 import random

@@ -1,7 +1,8 @@
 """
 Ex 20.
 
-Create a function in computer to return the list of applications
+Program Description: The objective of this program is to create a function in the computer to return the list of applications.
+
 """
 
 import random

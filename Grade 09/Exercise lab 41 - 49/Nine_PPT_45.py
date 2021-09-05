@@ -1,7 +1,9 @@
 """
 Ex 45.
 
-Create a class random movie which creates x amount of movies with a random runtime, random rating, and random year with a blank title.
+The objective of this program is to create a ‘random movie’ which creates a specified number of movies with a random runtime, random rating, and random year with a blank title. 
+Note: Remember to import the random module at the start of your code.
+
 """
 
 import random

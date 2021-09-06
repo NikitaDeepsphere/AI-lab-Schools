@@ -1,7 +1,7 @@
 """
 Ex 21.
 
-Create a class calculator that has the variables num1, num2, and op
+Program Description : The objective of this program is to create a class named “calculator”  that has variables named “num1” , “num2” and “op” as such.
 """
 
 class calculator:

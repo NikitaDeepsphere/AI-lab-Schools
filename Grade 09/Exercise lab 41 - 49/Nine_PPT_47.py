@@ -1,7 +1,7 @@
 """
 Ex 47.
 
-Create the function get_movies in the movie_theatre class which will return a string of all the movies and their details.
+The objective of this program is to create a get function under the movie_theatre class that returns all the details about each movie in the movie_list.
 """
 
 import random

@@ -1,7 +1,8 @@
 """
 Ex 42.
 
-Create a constructor for the class movie.
+The objective of this program is create a constructor for the movie class.
+
 """
 
 class movie:

@@ -1,7 +1,8 @@
 """
 Ex 15.
 
-Create another function get_values which will return the values of Application as a string.
+Program Description: The objective of this program is to create a new function called “get_values” which returns the values of the “Application” class as a string.
+
 """
 
 class Application:

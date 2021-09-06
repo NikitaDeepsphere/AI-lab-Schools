@@ -1,7 +1,7 @@
 """
 Ex 16.
 
-Create another class Computer which has the values comp_name, available_space (GB), total_space (GB), and app_list
+Program Description: The objective of this program is to create another class called “Computer” which contains the variables “comp_name,” “available_space(GB),” “total_space(GB),” and “app_list.”
 """
 
 class Application:

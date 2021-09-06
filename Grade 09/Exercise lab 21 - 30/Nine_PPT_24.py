@@ -1,7 +1,8 @@
 """
 Ex 24.
 
-Create the function output that will calculate the answer given the numbers and operations and return an answer.
+Program Description: The objective of this program is to create a function that will execute the operation on the given numbers and return an answer.
+
 """
 
 class calculator:

@@ -1,7 +1,10 @@
 """
 Ex 33.
 
-Each bedroom requires at least 130 sq_feet and each bathroom requres at least 50 sq_feet. Assuming that there are 2000 sq feet in the house itself not part of the bed or bathrooms, create the function yard_area() that will return the remaining sq_feet of the property that is the yard area.
+Program Description: The objective of this program is to create a function called “yard_area()” which will return the remaining square footage of the property that is the yard. 
+
+Note: Each bedroom requires a minimum of 130 square feet and each bathroom requires a minimum of 50 square feet. Assume that there are 2000 square feet in the house that are not a part of the bed or bathrooms.
+
 """
 
 class house:

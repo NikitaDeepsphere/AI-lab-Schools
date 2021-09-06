@@ -1,7 +1,8 @@
 """
 Ex 26.
 
-Create the class super calculator which will consist of a variable calc_list
+Program Description: The objective of this program is to create a class called “super_calc” which contains a variable called “calc_list.”
+
 """
 
 class super_calculator:

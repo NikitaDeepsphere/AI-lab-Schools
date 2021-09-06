@@ -1,7 +1,8 @@
 """
 Ex 29.
 
-Create a variable ans_list[] that stores the answers from the rand_calc() function. Then create another function average() that returns the average of the dataset.
+Program Description: The objective of this program is to create a list called “ans_list[]” which stores the answers from the “rand_calc” function. Then, create another function “average()” which calculates the average of the dataset.
+
 """
 
 import random

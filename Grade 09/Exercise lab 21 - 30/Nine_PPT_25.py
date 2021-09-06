@@ -1,7 +1,7 @@
 """
 Ex 25.
 
-Create the function calculate which passed in 2 nums and an operation, will do both input and output and return the output answer.
+Program Description: The objective of this program is to create a function called “calculate” that will take in the inputted numbers and operation and do input/output and return the output.
 """
 
 class calculator:

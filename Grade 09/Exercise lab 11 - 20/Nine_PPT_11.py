@@ -1,7 +1,8 @@
 """
 Ex 11.
 
-Create the class Application which has the variables app_name, app_size, and app_type.
+Program description: The objective of this program is to create a class named ”Application" which has variables “app_name” , “app_size” , and “app_type”.
+
 """
 
 class Application:

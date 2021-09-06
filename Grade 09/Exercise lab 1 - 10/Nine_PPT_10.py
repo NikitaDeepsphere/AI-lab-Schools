@@ -1,7 +1,8 @@
 """
 Ex 10.
 
-Create the function next_year which will calculate how many days till the next year.
+Program description: In the previous exercise we have created a function to calculate how many days are left until the next month. In this exercise we have created a function named “next_year” which calculates how many days are left until the next year.
+
 """
 
 days = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wensday", "Thursday"]

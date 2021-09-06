@@ -1,7 +1,8 @@
 """
 Ex 31.
 
-Create a class called house and give in the variables bed, bath, price and sq_feet.
+Program Description: The objective of this program is to create a class called “house” and create the variables “bed,” “bath,” “price,” and “sq_feet.”
+
 """
 
 class house:

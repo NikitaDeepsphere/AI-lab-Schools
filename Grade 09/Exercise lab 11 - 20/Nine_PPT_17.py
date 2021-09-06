@@ -1,5 +1,7 @@
 """
-Add a constructor to the Computer class
+Ex. 17
+
+Program Description: The objective of this program is to add a constructor to the “Computer” class.
 """
 
 class Application:

@@ -1,7 +1,7 @@
 """
 Ex 46.
 
-Create the function details for the movie class which returns a string with the details of the movie.
+The objective of this program is to create a function that returns all the properties of the object. The function is  called ‘details’ under the movie class which returns a string with the details of the movie.
 """
 
 import random

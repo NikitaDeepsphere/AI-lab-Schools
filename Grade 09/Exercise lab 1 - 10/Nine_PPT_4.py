@@ -1,7 +1,8 @@
 """
 Ex 4.
 
-Give them the values of the current day. ie. year would be 2021.
+Program description : The objective of this program is to give variables “year”, “Month” and “day” the values of the current day. 
+
 """
 
 days = ["Sunday", "Monday", "Tuesday", "Wensday", "Thursday", "Friday", "Saturday"]

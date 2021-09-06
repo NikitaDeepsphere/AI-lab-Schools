@@ -1,7 +1,8 @@
 """
 Ex 18.
 
-Add the function add_app to Computer which will add an application to the app list and update the corresponding available_space value. Edit the Application class to create a function to return app_size
+Program Description: The objective of this program is to create a new function called “add_app” to the “Computer” class. This function will add an app to the app list and also update the “availabe_space” variable. 
+
 """
 
 class Application:

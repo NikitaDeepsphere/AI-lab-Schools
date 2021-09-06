@@ -1,7 +1,11 @@
 """
 Ex 9.
 
-Create the function next_month which will calculate how many days until the next month
+Program description: The objective of this program is to create a function named “next_month” which calculates how many days are left until the next month.
+The simple calculation in this code is “30-current date/day” .
+
+Note: This program highlights the usage of return function in python.
+
 """
 days = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wensday", "Thursday"]
 year = 2021

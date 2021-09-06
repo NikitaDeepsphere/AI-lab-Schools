@@ -1,7 +1,8 @@
 """
 Ex 8.
 
-Create the function days until, which will find out how many days until a specified date passed in.
+Program description: The objective of this program is to create a function named ”days” which will find out how many days until a specific date is passed in.
+
 """
 
 days = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wensday", "Thursday"]

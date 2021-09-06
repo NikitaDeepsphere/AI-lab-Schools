@@ -1,7 +1,8 @@
 """
 Ex 38.
 
-Add to the class a function called get_houses that returns the bed, bath, price, and sq_feet of each house with each line corresponding each house. You will need to edit the house class also.
+The objective of this program is to add a function that will return the properties of the class object. In this program we add a get function for each property under the house class and one function under the residential area that can give all the values at one go.
+
 """
 
 import random

@@ -1,7 +1,8 @@
 """
 Ex 22.
 
-Create the constructor which in this case, will not take anything in
+Program Description: The objective of this program is to add a constructor to a previously created class named “calculator” which in this case will not take anything in.
+
 """
 
 class calculator:

@@ -1,7 +1,7 @@
 """
 Ex 1.
 
-Create a class Encryptor which has the variables, in_string, out_string, letters, and key.
+Program Description: The objective of this program is to create the Encryptor class with the variables “in_string,” “out_string,” “letters,” and “key.”
 """
 
 class Encryptor:

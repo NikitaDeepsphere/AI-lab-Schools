@@ -1,7 +1,9 @@
 """
 Ex 2.
 
-Create a constructor which will take in the input string, and a key (int).
+Program Description: 
+                  The objective of this program is to create a constructor in the class which inputs a string and a key (int.)
+
 """
 
 class Encryptor:

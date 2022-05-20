@@ -1,7 +1,9 @@
 """
 Ex 4.
 
-Create the functions change_string and change_key which will change their corresponding attributes.
+
+Program Description: The objective of this program is to create the functions “change_string” and “change_key” which will change the string and key respectively.
+
 """
 
 class Encryptor:

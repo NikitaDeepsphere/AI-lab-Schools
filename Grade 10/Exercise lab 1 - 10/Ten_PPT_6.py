@@ -1,7 +1,7 @@
 """
 Ex 6.
 
-Create a similar class decryptor which has the variables key_list & Encrpytor_list.
+Program Description: The objective of this program is to create a class called “Decryptor” with the variables “key_list” and “Encrpytor_list.”
 """
 
 class Decryptor:

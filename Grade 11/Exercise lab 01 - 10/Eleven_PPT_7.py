@@ -1,7 +1,7 @@
 """"
 Ex. 7
 
-Create a class student. It should have a constructor with __init__(self,...) and the variables name, id_number, and age. There should also be functions to get these values and return them.
+Program Description: The objective of this program is to create a constructor for the “Decryptor” class which does not input anything.
 """
 
 class Student:

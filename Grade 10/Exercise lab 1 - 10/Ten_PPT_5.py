@@ -1,7 +1,7 @@
 """
 Ex 5.
 
-Create the function get_values which returns a string with the in_string, out_string, and key.
+Program Description: The objective of this program is to create a function called “get_values” which returns a string with “in_string,” “out_string,” and “key.”
 """
 
 class Encryptor:

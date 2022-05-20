@@ -1,7 +1,10 @@
 """
 Ex 8.
 
-Create the function add_encryptor which will take in a string and a key and will add a string to the encrypt to the encryptor_list and add the key to the key_list.
+
+Program Description: The objective of this program is to create a function called “add_encryptor” which takes in a string and a key. 
+It will also add a string to “encryptor_list” and the key to the “key_list.”
+
 """
 
 class Decryptor:

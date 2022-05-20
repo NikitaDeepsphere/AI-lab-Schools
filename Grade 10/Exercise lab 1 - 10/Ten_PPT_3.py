@@ -1,7 +1,12 @@
 """
-Ex 3.
+Ex 3
 
-Create a function encrypt, which will shift each letter in the in_string, the key amount to the right. For example, if the key is 1 and the string is "apple", then it becomes "bqqmf" (Each letter is shifted one right)
+
+Program Description: The objective of this program is to create a function called “encrypt” which will shift each letter in “in_string” 
+the specified amount (key) to the right. 
+
+Example: If the key is 1 and the string is “apple,” then the output will be “bggmf”
+
 """
 
 class Encryptor:

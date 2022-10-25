@@ -16,4 +16,4 @@ for vAR_x in range(len(vARint_list)):
 
 vAR_total = 0
 for vAR_x in range (len(vARint_list)):
-  vAR_total+= vARint_list[vAR_x]]
+  vAR_total+= vARint_list[vAR_x]

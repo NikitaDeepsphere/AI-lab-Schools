@@ -8,9 +8,9 @@ The program highlights the usage of add function in python.
 
 """
 
-vARint_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-for x in range(len(int_list)):
-  int_list[x]*=12
+vAR_int_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+for vAR_x in range(len(vAR_int_list)):
+  vAR_int_list[vAR_x]*=12
 vAR_add = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
-for x in range(len(int_list)):
-  int_list[x] = (int_list[x] + vAR_add[x])
+for vAR_x in range(len(vAR_int_list)):
+  vAR_int_list[vAR_x] = (vAR_int_list[vAR_x] + vAR_add[vAR_x])
